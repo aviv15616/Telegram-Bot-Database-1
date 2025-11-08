@@ -110,4 +110,4 @@ This repository is intended **solely for portfolio and educational demonstration
 
 
 ## 👤 Author
-Aviv Neeman - neemanaviv@gmail.com
+Aviv Neeman - neeman.work@gmail.com
